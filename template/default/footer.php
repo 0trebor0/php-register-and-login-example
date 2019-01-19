@@ -1,0 +1,1 @@
+<footer>&copy;Copyright <?php echo TITLE;?></footer>
