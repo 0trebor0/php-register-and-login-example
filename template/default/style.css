@@ -1,0 +1,63 @@
+body{
+	margin: 0px;
+	font-style: ;
+}
+.wrapper{
+	margin: 1%;
+	padding: 1%;
+	background-color: black;
+	color: white;
+}
+.nav{
+	margin: 0%;
+	padding: 1%;
+	background-color: white;
+	color: white;
+	text-align: center;
+}
+.nav li{
+	display: inline;
+	padding: 5px;
+}
+.nav ul{
+	list-style: none;
+}
+.nav a{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+.nav-item-active{
+	color: green;
+}
+.content{
+	margin-top: 1%;
+	padding: 5%;
+	background-color: white;
+	color: white;
+	text-align: center;
+	color: black;
+}
+.content .content-post{
+	margin-top: 1%;
+	padding: 5%;
+	background-color: black;
+	color: white;
+	text-align: center;
+	color: white;
+	
+}
+footer{
+	margin: 0%;
+	padding: 5%;
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+.form{
+	
+}
+.form input{
+	padding: 1%;
+	text-align: center;
+}
